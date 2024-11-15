@@ -1,0 +1,19 @@
+.game{
+    display: flex;
+}
+
+.center_img
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hidden {
+    display: none;
+}
+
+.current_suggestion{
+    display: block;
+}
